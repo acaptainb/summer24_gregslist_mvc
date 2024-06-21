@@ -24,3 +24,15 @@
     border-radius: 15px 15px 0 0;
   }
 }
+
+.house-card {
+  border: 3px solid black;
+  border-radius: 15px;
+}
+
+.house-card img {
+  border-radius: 15px 0 0 15px;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
